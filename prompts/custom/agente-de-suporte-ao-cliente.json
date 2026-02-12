@@ -1,0 +1,17 @@
+{
+  "name": "Agente de Suporte ao Cliente",
+  "description": "dsfgsdhgfdsfhsdfhdf",
+  "category": "custom",
+  "model": "gpt-4-turbo",
+  "persona": "dsfhsdfhsdfhdsfhsdfh",
+  "goal": "sdfhsdfhsdfhsdfhsdf",
+  "instructions": [],
+  "restrictions": [],
+  "tone": [
+    "friendly",
+    "professional"
+  ],
+  "outputFormat": "sdfhsdfhsdfhsdfh",
+  "variables": [],
+  "fewShotExamples": []
+}
