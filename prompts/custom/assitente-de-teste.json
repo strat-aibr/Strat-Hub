@@ -1,0 +1,17 @@
+{
+  "name": "Assitente de teste",
+  "description": "sdgdfhsdhsdfhdfhdf",
+  "category": "custom",
+  "model": "gpt-4-turbo",
+  "persona": "Você é um agente",
+  "goal": "Vender",
+  "instructions": [],
+  "restrictions": [],
+  "tone": [
+    "professional",
+    "friendly"
+  ],
+  "outputFormat": "Quero em Json",
+  "variables": [],
+  "fewShotExamples": []
+}
